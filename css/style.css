@@ -553,7 +553,7 @@ nav .container {
   }
 }
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (min-width: 1025px) and (max-width: 1500px) {
   .container-initial {
     width: 100%;
     height: 89vh;
